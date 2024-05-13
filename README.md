@@ -4,7 +4,7 @@
 -   📝 [Resume - CV](https://drive.google.com/file/d/1O_53OEEqij8dHbqgTg8nShvgWdBzZvi0/view?usp=sharing)
 -   📫 Contáctame: <a href="https://www.linkedin.com/in/codebyjavi/">@codebyjavi</a>
 
-## 🛠️ Lenguajes y Herramientas:
+### 🛠️ Lenguajes y Herramientas:
 <h5>Front End:</h5>
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
