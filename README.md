@@ -1,7 +1,7 @@
 #  Hola, mi nombre es Javier González 👋.
 ### Desarrollador Front End y Analista de Sistemas.
 
--   📝 [Resume - CV](https://drive.google.com/file/d/1O_53OEEqij8dHbqgTg8nShvgWdBzZvi0/view?usp=sharing)
+-   📝 [Resume - CV](https://drive.google.com/file/d/1jV8mr5VMSQkRVvGIF3d16YwQwlCr-OQd/view?usp=sharing)
 -   📫 Contáctame: <a href="https://www.linkedin.com/in/codebyjavi/">@codebyjavi</a>
 
 ### 🛠️ Lenguajes y Herramientas:
